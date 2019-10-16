@@ -13,8 +13,10 @@ A Data Warehouse Notification System
 1. [Contacts](README.md#contacts)
 
 # Background
+Collecting the relavant datasets from variuos data sources for your data start up/articles/projects can be time consuming and tedious process. Especially datasets change so frequently, it does add extra burden on data scientists/analysts to iterate the same process again and again. It was very important to buid the unified, centralized and one click away data warehouse system to address above issues with added facility of subscription based notification system.
 
 # Project Overview
+This project facilitates a plaform for Data Scientists/Analysts, Journalists, and Startup enthusiasts, 
 
 # Data Source
 
